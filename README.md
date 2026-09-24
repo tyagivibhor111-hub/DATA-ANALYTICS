@@ -76,7 +76,7 @@ Columns: `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `Un
 ```
 ├── VibhuTyagi_CustomerSegmentationSalesAnalytics.ipynb   # Main analysis notebook
 ├── requirements.txt                                       # Python dependencies
-├── Vibhu_ProjectReport.docx                               # Full written report
+├── LICENSE                                                 # Full written report
 └── README.md                                              # This file
 ```
 
