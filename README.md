@@ -87,7 +87,7 @@ Columns: `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `Un
 - RFM distributions and a Recency-vs-Monetary customer segmentation scatter plot
 - Elbow/silhouette plots justifying the chosen number of customer segments
 - A labeled cluster profile table (e.g., Champions, At Risk, Potential Loyalists, New/Low-Engagement)
-- A 3-month revenue forecast plotted against actuals
+
 
 ## Notes
 
