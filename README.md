@@ -20,7 +20,6 @@ project builds an end-to-end analytics pipeline that answers those questions:
    segment labels (e.g., "Champions", "At Risk").
 5. **Revenue forecasting** — a linear trend + monthly-seasonality model projecting the next 3
    months of revenue, validated on a hold-out period.
-6. **Insights & recommendations** — concrete, business-facing takeaways from the analysis.
 
 ## Dataset
 
